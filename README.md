@@ -1,2 +1,2 @@
 # Data-Science-for-Ecology
-Projects for Ecology
+## Deep Learning for Ecology
